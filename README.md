@@ -3,6 +3,8 @@
 [![Static Badge](https://img.shields.io/badge/Live%20Demo-blue)](https://sofonias-mini-message-board-wild-river-6481.fly.dev/)
 
 ## Technologies Used:
-  * NodeJS - Express
+  * JavaScript
+  * CSS3
   * EJS for template
+  * NodeJS - Express
   * Fly.io for Hosting
